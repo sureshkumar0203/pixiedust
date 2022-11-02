@@ -1,0 +1,816 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"message"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"success",
+				"successfully"
+			],
+			[
+				"all",
+				"all_input"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"i",
+				"if\tif"
+			],
+			[
+				"set",
+				"setInterval"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"me",
+				"measurement"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"response",
+				"response_data"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"coupo",
+				"coupon_code"
+			],
+			[
+				"item",
+				"item_ary"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"from",
+				"from_time"
+			],
+			[
+				"admin",
+				"admin_notes"
+			],
+			[
+				"body",
+				"bodyData"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"v",
+				"view"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"order",
+				"order_info"
+			],
+			[
+				"stri",
+				"stristr"
+			],
+			[
+				"soci",
+				"Socialite"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"che",
+				"checkdnsrr"
+			],
+			[
+				"H",
+				"hash"
+			],
+			[
+				"fu",
+				"full_name"
+			],
+			[
+				"user",
+				"user_reg"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"phpin",
+				"phpinfo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/api.php",
+			"settings":
+			{
+				"buffer_size": 2760,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/shop366days/routes/api.php",
+			"settings":
+			{
+				"buffer_size": 2619,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/ompharmacy/app/Http/Controllers/AdminController.php",
+			"settings":
+			{
+				"buffer_size": 23349,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/LARAVEL-PROJECTS/shop366days/routes/api.php",
+			"settings":
+			{
+				"buffer_size": 2619,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/shop366days/app/Http/Controllers/androidPaytmGatewayController.php",
+			"settings":
+			{
+				"buffer_size": 1642,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/ApiController.php",
+			"settings":
+			{
+				"buffer_size": 42137,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/ronsafe",
+		"/D/xampp/htdocs/ronsafe/resources",
+		"/D/xampp/htdocs/ronsafe/resources/views",
+		"/D/xampp/htdocs/ronsafe/resources/views/includes"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/implements/paytm/pgResponse.php",
+		"/D/xampp/htdocs/ompharmacy/rsa/ccavResponseHandler.php",
+		"/D/xampp/htdocs/ompharmacy/rsa/GetRSA.php",
+		"/D/xampp/htdocs/implements/jobportal/index.php",
+		"/D/xampp/htdocs/lay-buys/app/Http/Controllers/adminController.php",
+		"/D/xampp/htdocs/implements/jobportal/test.php",
+		"/D/xampp/htdocs/implements/smtp/smtp_mail.php",
+		"/D/xampp/htdocs/implements/jobportal/mail/class.smtp.php",
+		"/D/xampp/htdocs/pixiedust/app/Http/Controllers/BookingController.php",
+		"/D/xampp/htdocs/emailapp/send_email.php",
+		"/D/xampp/htdocs/emailapp/includes/class.dbFunctions.php",
+		"/D/xampp/htdocs/emailapp/includes/class.Main.php",
+		"/D/xampp/htdocs/implements/jobportal/mail/class.phpmailer.php",
+		"/D/xampp/htdocs/implements/mail-test/test.php",
+		"/D/xampp/htdocs/lukluks/mail-test.php",
+		"/D/xampp/htdocs/lukluks/add.php",
+		"/D/xampp/htdocs/pixiedust/routes/api.php",
+		"/D/xampp/htdocs/pixiedust/app/Http/Controllers/ApiController.php",
+		"/D/xampp/htdocs/ci-test/application/views/users/registration.php",
+		"/D/xampp/htdocs/ci-test/application/views/user-registration.php",
+		"/D/xampp/htdocs/ci-test/application/config/database.php",
+		"/D/xampp/htdocs/ci-test/application/config/routes.php",
+		"/D/xampp/htdocs/ci-test/application/controllers/UserRegistration.php",
+		"/D/xampp/htdocs/ci-test/application/config/config.php",
+		"/D/xampp/htdocs/ci-test/application/views/welcome_message.php",
+		"/D/xampp/htdocs/ci-test/application/controllers/Welcome.php",
+		"/D/xampp/htdocs/ci-test/application/models/User.php",
+		"/D/xampp/htdocs/ci-test/application/controllers/Users.php",
+		"/D/xampp/htdocs/ci-test/application/controllers/Registration.php",
+		"/D/xampp/htdocs/ronsafe/app/Http/Controllers/AdminLoginController.php",
+		"/D/xampp/htdocs/ronsafe/app/Product.php",
+		"/D/xampp/htdocs/ronsafe/app/Http/Controllers/ProductController.php",
+		"/D/xampp/htdocs/ronsafe/resources/views/admin/banners/index.blade.php",
+		"/D/xampp/htdocs/ronsafe/resources/views/admin/banners/edit.blade.php",
+		"/D/xampp/htdocs/pixiedust/routes/web.php",
+		"/D/xampp/htdocs/ompharmacy/app/Http/Controllers/ApiController.php",
+		"/D/xampp/htdocs/ompharmacy/routes/api.php",
+		"/D/xampp/htdocs/ronsafe/app/Http/Controllers/AdminController.php",
+		"/D/xampp/htdocs/ronsafe/app/Http/Controllers/BannerController.php",
+		"/D/xampp/htdocs/ronsafe/resources/views/admin/banners/create.blade.php",
+		"/D/xampp/htdocs/ronsafe/resources/views/contact-us.blade.php",
+		"/D/xampp/htdocs/core-test/index.php",
+		"/D/xampp/htdocs/core-test/includes/class.Main.php",
+		"/D/xampp/htdocs/core-test/includes/class.dbFunctions.php",
+		"/D/xampp/htdocs/ompharmacy/resources/views/booking-service.blade.php",
+		"/D/xampp/htdocs/ompharmacy/app/Http/Controllers/BookingController.php",
+		"/D/xampp/htdocs/ompharmacy/routes/web.php",
+		"/D/xampp/htdocs/ompharmacy/app/Http/Controllers/PaymentsController.php",
+		"/D/xampp/htdocs/core-test/includes/class.Email.php",
+		"/C/Users/suresh/Desktop/includes/class.Paypal.php",
+		"/C/Users/suresh/Desktop/includes/class.Pagination.php",
+		"/C/Users/suresh/Desktop/includes/config.php",
+		"/C/Users/suresh/Desktop/includes/class.dbFunctions.php",
+		"/C/Users/suresh/Desktop/includes/class.Main.php",
+		"/D/xampp/htdocs/pixiedust/app/Http/Controllers/AdminController.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/admin/massage-therapy-bookings.blade.php",
+		"/D/xampp/htdocs/lukluks/index.php",
+		"/D/xampp/htdocs/implements/fetch-data-url-page/curl.php",
+		"/D/xampp/htdocs/implements/fetch-data-url-page/index.php",
+		"/D/xampp/htdocs/implements/fetch-data-url-page/index1.php",
+		"/D/xampp/htdocs/implements/fetch-data-url-page/index2.php",
+		"/D/xampp/htdocs/implements/fetch-data-url-page/simple_html_dom.php",
+		"/D/xampp/htdocs/implements/fetch-data-url-page/sms-curl.php",
+		"/D/xampp/htdocs/implements/DVLA-api/test1.php",
+		"/D/xampp/htdocs/implements/DVLA-api/test2.php",
+		"/D/xampp/htdocs/implements/DVLA-api/read-xml-response.php",
+		"/D/xampp/htdocs/implements/DVLA-api/DVLA-Response.php",
+		"/D/xampp/htdocs/implements/DVLA-api/xmltest.php",
+		"/D/xampp/htdocs/implements/gmail-login/index.php",
+		"/D/xampp/htdocs/finance/includes/class.Main.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/admin/intutive-bookings.blade.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/admin/manage-orders.blade.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/admin/layouts/master.blade.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/massage-therapy.blade.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/admin/includes/footer.blade.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/admin/includes/header.blade.php",
+		"/D/xampp/htdocs/ompharmacy/resources/views/layouts/master.blade.php",
+		"/D/xampp/htdocs/ompharmacy/resources/views/home.blade.php",
+		"/D/xampp/htdocs/l3-safety-training/app/Http/Controllers/HomeController.php",
+		"/D/xampp/htdocs/bletechnolabs/routes/api.php",
+		"/D/xampp/htdocs/ci-test/application/views/users/login.php",
+		"/D/xampp/htdocs/ci-test/application/views/users/account.php",
+		"/D/xampp/htdocs/bletechnolabs/app/Http/Controllers/ApiController.php",
+		"/D/xampp/htdocs/ci-test/application/models/Auth_model.php",
+		"/D/xampp/htdocs/ci-test/application/config/constants.php",
+		"/D/xampp/htdocs/l3-safety-training/resources/views/includes/header.blade.php",
+		"/C/Users/suresh/Desktop/test1.html",
+		"//192.168.0.143/e/xampp/htdocs/finance/admin/report_statistic.php",
+		"//192.168.0.143/e/xampp/htdocs/finance/admin/report_finance_full_data.php",
+		"//192.168.0.143/e/xampp/htdocs/finance/admin/report_finance_full.php",
+		"//192.168.0.143/e/xampp/htdocs/finance/admin/manage_others.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/register.blade.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/contact-us.blade.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/admin/sub-admin/edit.blade.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/admin/sub-admin/create.blade.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/admin/sub-admin/index.blade.php",
+		"/D/xampp/htdocs/lay-buys/resources/views/user-signup.blade.php",
+		"/D/xampp/htdocs/ronsafe/resources/views/admin/color/index.blade.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/admin/manage-customers.blade.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/admin/includes/sidebar.blade.php",
+		"/D/xampp/htdocs/implements/IQ/cls.php",
+		"/D/xampp/htdocs/implements/IQ/php-array.php",
+		"/D/xampp/htdocs/implements/cls.php",
+		"/D/xampp/htdocs/ronsafe/routes/web.php",
+		"/D/xampp/htdocs/pixiedust/resources/views/admin/my-account.blade.php",
+		"/D/xampp/htdocs/pixiedust/app/Http/Controllers/SubAdminController.php",
+		"/D/xampp/htdocs/pixiedust/app/User.php",
+		"/D/xampp/htdocs/ronsafe/app/Http/Controllers/UserLoginController.php",
+		"/D/xampp/htdocs/pixiedust/app/Http/Controllers/UserController.php",
+		"/D/xampp/htdocs/pixiedust/app/EmailTemplate.php",
+		"/D/xampp/htdocs/pixiedust/app/Http/Controllers/CouponCodeController.php",
+		"/D/xampp/htdocs/pixiedust/app/Helpers/helpers.php",
+		"/D/xampp/htdocs/pixiedust/app/Http/Controllers/UserRegistrationController.php",
+		"/D/xampp/htdocs/pixiedust/app/Mail/email.php",
+		"/D/xampp/htdocs/pixiedust/app/Mail/ContactMail.php",
+		"/D/xampp/htdocs/ronsafe/app/Http/Controllers/UserController.php",
+		"/D/xampp/htdocs/pixiedust/app/SubAdmin.php",
+		"/D/xampp/htdocs/pixiedust/app/Http/Controllers/Auth/ForgotPasswordController.php",
+		"/D/xampp/htdocs/pixiedust/app/Http/Controllers/Auth/LoginController.php",
+		"/D/xampp/htdocs/pixiedust/app/Http/Middleware/CheckUserLogin.php",
+		"/D/xampp/htdocs/ompharmacy/app/Http/Controllers/Auth/LoginController.php",
+		"/D/xampp/htdocs/ompharmacy/app/User.php",
+		"/D/xampp/htdocs/ompharmacy/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/xampp/htdocs/ompharmacy/resources/views/admin/subadmin/create.blade.php",
+		"/D/xampp/htdocs/ompharmacy/app/Http/Controllers/AdminController.php",
+		"/D/xampp/htdocs/pixiedust/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/D/xampp/htdocs/pixiedust/app/Http/Controllers/Auth/RegisterController.php",
+		"/D/xampp/htdocs/pixiedust/app/Http/Controllers/Auth/ResetPasswordController.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"test.php",
+			"encoded_content",
+			"upload_cv",
+			"||",
+			"==\"\" || ",
+			"upload_cv",
+			"file_cv",
+			"SendMail",
+			"mail",
+			"submit",
+			"!=",
+			"MassageTherapyBooking",
+			"message",
+			"PrescriptionUpload",
+			"saveMassageTherapyBookings",
+			"save-massage-therapy-bookings",
+			"massage_therapy_bookings",
+			"bookingService",
+			"booking",
+			"mb",
+			"fetch",
+			"fetchColumn",
+			"num_rows",
+			"getDataFromTable",
+			"Pagination",
+			"products",
+			"intutive-bookings",
+			"profiles",
+			"profile",
+			"validateCaptcha",
+			"delete",
+			"bcrypt",
+			"forgot",
+			"$td",
+			"td",
+			"color",
+			"$td",
+			"val_inst",
+			"manage",
+			"manage_mediclaim.php",
+			"mediclaim",
+			"\"];?>&",
+			"associate",
+			"insertSet",
+			"pmode",
+			"$cond",
+			"rto",
+			"veh_per",
+			"user_id",
+			"sendNewsLetter",
+			"NewsLetter",
+			"delete-sub-email",
+			"cms",
+			"create",
+			"getEmailTemplate",
+			"getNewsLetSubEmail",
+			"news-letter",
+			"succ_msg",
+			"newsletter",
+			"newsLetterSubmitForm",
+			"saveSubscribeEmail",
+			"form",
+			"showPromocode",
+			"password",
+			"faq",
+			"[",
+			"photo",
+			"photo_",
+			"profile_up",
+			"profile_",
+			"profile",
+			"action",
+			"fitness_to_dt",
+			"manage-category",
+			"cat_name",
+			"message",
+			"manage-testimonials",
+			"testimonial_data",
+			"message",
+			"manage-testimonials",
+			"testimonial_res",
+			"testimonial_data",
+			"paymentSetting",
+			"requestAccept",
+			"notification",
+			"form",
+			"bookingService",
+			"booking",
+			"hasfile",
+			"storage",
+			"book_ser",
+			"update",
+			"lat",
+			"latitude",
+			"book",
+			"pres",
+			"bookingCancellation",
+			"requestCancel",
+			"getMoreContent",
+			"associate",
+			"device_token",
+			"getSubCategories",
+			"getSubCategory",
+			"product",
+			"subcategories",
+			"getSubCategory",
+			"getCategories",
+			"getSubCategory",
+			"customers",
+			"cart",
+			"transfer",
+			"Braintree_Transaction",
+			"logout",
+			"place",
+			"placeO",
+			"place",
+			"logout",
+			"inputDate",
+			"datepicker",
+			"message",
+			"c_email",
+			"openssl_decrypt",
+			"getTotalChocolates",
+			"description",
+			"cmsPage",
+			"youtube_id",
+			"Blog",
+			"coupon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"index.php",
+			".\"--\".",
+			"nl_res",
+			"[\"",
+			"manage-news-events",
+			"news_events",
+			"news_event_dtls",
+			"manage-news-events",
+			"ne_data",
+			"news_event_dtls",
+			"manage-news-events",
+			"ne_res",
+			"ne_data",
+			"products",
+			"stock_id",
+			"size_data",
+			"size",
+			"size_res"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/api.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								778,
+								778
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1717.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/xampp/htdocs/shop366days/routes/api.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2619,
+								2619
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1254.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/xampp/htdocs/ompharmacy/app/Http/Controllers/AdminController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12965,
+								12967
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11286.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/H/LARAVEL-PROJECTS/shop366days/routes/api.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1493.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/xampp/htdocs/shop366days/app/Http/Controllers/androidPaytmGatewayController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								837,
+								857
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Http/Controllers/ApiController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1452.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pixieduxt.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

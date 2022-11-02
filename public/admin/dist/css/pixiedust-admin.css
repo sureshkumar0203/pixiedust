@@ -1,0 +1,147 @@
+.login-icone{
+    position: absolute;
+    top: 0px;
+    margin-left: 10px;
+}
+.list-unstyled{
+    color: red !important;
+}
+.help-block{
+    color: red !important;
+}
+.all_chk label{
+    display: block !important;  
+}
+input[type="file"] {
+    display: block;
+}
+.imageThumb {
+    max-height: 75px;
+    border: 2px solid;
+    padding: 1px;
+    cursor: pointer;
+}
+.pip {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+}
+.remove {
+    display: block;
+    /*    background: #444;
+        border: 1px solid black;
+        color: white;*/
+    text-align: center;
+    cursor: pointer;
+}
+.remove:hover {
+    background: white;
+    color: black;
+}
+
+.mul_image{
+	margin-bottom: 15px; 
+	display:inline-block;
+	}
+.mul_image img{
+    width: 100px;
+}
+.mul_image a{
+    float: left;
+}
+
+.mul_image i{
+	display: block; 
+	text-align: center; 
+	color:#ff0000; 
+	margin-top: 5px;
+	}
+.col-md-6{
+    float: left;
+}
+.admin_view_order{    
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background: #00000021;
+    padding-top: 143px;
+}
+ hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+
+.mar-top12{
+	margin-top: 12px;
+	}
+	
+.e-id{
+	float:left; 
+	margin-top: -7px; 
+	margin-left: 5px; 
+	margin-top:5px;
+	}	
+
+label:not(.form-check-label):not(.custom-file-label) {
+    font-weight: 500;
+}
+
+.cart-color{   
+	height: 20px;
+	width: 20px;
+	display: inline-block;
+	float:left;
+	margin-right:5px;
+	border: 1px solid #ffffff6e;
+	}
+	
+span.stocksh{
+	position: absolute;
+	width: 40px;
+	background: #00000014;
+	text-align: center;
+	line-height: 37px;
+	padding-left: 5px;
+	padding-right: 5px;
+	}
+	
+.col-md-4.clone-stock input {
+    padding-left: 45px;
+}
+
+.stock-clc{
+	color: #ff7200; 
+	cursor:pointer;	
+	line-height:37px;
+	}
+	
+.stock-add-del{
+	color: #ff7200; 
+	cursor:pointer;
+	}	
+
+li.nav-item.has-treeview.menu-open {
+    background: #494e53;
+}
+
+input.clo {
+    padding-left: 45px;
+}
+
+.sidebar::-webkit-scrollbar {
+    width: 0 !important;
+}
+
+div.sidebar {
+    overflow-y: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.psychic-off-day li span {
+    display: inline!important;
+    float: none!important;
+}	
+	
